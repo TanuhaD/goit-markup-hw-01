@@ -1,0 +1,45 @@
+/* body */
+body {
+ font-family: 'Roboto', sans-serif; 
+}
+/* header */
+.page-header {
+background-color:red ;
+}
+/* main */
+.main-style {
+
+}
+
+.solutions {
+background-color:#2F303A;
+}
+
+.feature-styles {
+
+}
+
+.our-work {
+
+}
+
+.team {
+
+}
+
+.footer-style {
+
+}
+
+
+
+
+.test-link {
+color:#212121;
+}
+
+.test-link:hover,
+.test-link:focus {
+color:#2196F3 ;
+}
+ 
